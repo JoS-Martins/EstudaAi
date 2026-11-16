@@ -1,7 +1,7 @@
 # EstudaAí — Assistente "Especialista EstudaAí"
 Trabalho acadêmico de engenharia de prompt: um assistente de suporte que responde dúvidas sobre o produto fictício **EstudaAí**, usando apenas um documento de produto (PRD) como fonte de informação.
 
-> **Autor(a):** Joana · **Disciplina:** _preencher_ · 
+> **Autor(a):** Joana · **Disciplina:** IA Generativa e Alta Perfomance · 
 
 ## Sobre o projeto
 
